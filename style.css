@@ -44,3 +44,13 @@ header a {
     text-decoration: none;
     color: white;
 }
+a {
+    color: cornflowerblue;
+    text-decoration: none;
+}
+a:visited {
+    color: rgb(8, 67, 177);
+}
+a:hover {
+    text-decoration: underline;
+}
